@@ -1,0 +1,6 @@
+These files allow for the creation of an Arch Linux package for the
+Helsinki Finite-State Transducer Technology (HFST) tools.
+
+http://www.ling.helsinki.fi/kieliteknologia/tutkimus/hfst/
+
+It is a more up to date package than what is currently on AUR.
